@@ -76,7 +76,8 @@ body{
 }
 .blood{
     background: url(../image/blood.png) no-repeat top right, #14131a url(../image/background.png) no-repeat center / 100%; 
-    margin-bottom: 130px;
+    margin-bottom: 210px;
+
 }
 .primary-bg{
     background: #14131a url(../image/background.png) no-repeat center / 100%; 
